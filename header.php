@@ -13,10 +13,8 @@
 	
 	<link rel="stylesheet" href="style.css" >
 
-
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,600|Open+Sans:400,700,800|Yellowtail:400" rel="stylesheet">
 	
-	<!--link rel="stylesheet" href="font-awesome/css/font-awesome.css"-->
 	<link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css?ver=1' type='text/css' media='all' />
 	<link rel="shortcut icon" href="favicon.ico">
 

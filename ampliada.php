@@ -6,7 +6,7 @@
 			
 			<header class="page-header">
 				<div class="container">
-					<h1><i class="fa fa-map-o" aria-hidden="true"></i></i> Eco Destinos</h1>
+					<h1><i class="fa fa-map-o" aria-hidden="true"></i> Eco Destinos</h1>
 				</div>
 			</header><!-- /.page-header -->
 

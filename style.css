@@ -318,7 +318,7 @@ a {
       .container aside .widget-sidebar i {
         display: block;
         float: left;
-        font: 1.5rem 'Lato', Arial;
+        font-size: 1.7rem;
         color: #c8c8c8;
         margin-right: 0.8rem; }
       .container aside .widget-sidebar a {
