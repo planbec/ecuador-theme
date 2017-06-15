@@ -726,7 +726,7 @@ input[type="submit"],input[type="button"]{border:0;color:#fff;display:inline-blo
 
 .container {
 	/*max-width:46.25rem;*/
-	.page-content {
+	&.page-content {
 		h2 { 
 	    	color: $footer2;
 	    	display: block;
@@ -742,6 +742,12 @@ input[type="submit"],input[type="button"]{border:0;color:#fff;display:inline-blo
 			line-height: 1.6rem;
 			margin-bottom: 1.7rem;
 		}
+	}
+
+	&.archive-content {
+	    margin-top: 12rem;
+	    margin-bottom: 4rem;
+	    overflow: hidden;
 	}
 }
 

@@ -3,30 +3,14 @@
 	<main id="content-area">
 	
 		<article class="single-page">
-			
-			<header class="page-header">
-				<div class="container">
-					<h1><i class="fa fa-map-marker" aria-hidden="true"></i> Eco Destinos</h1>				
-				</div>
-			</header><!-- /.page-header -->
-			
-			
-			
-			<div class="container page-content">
-			<?php include("sidebar-destinos.php"); ?>
 
 			
-				<section class="detalle-servicio">
-					<div class="icono">
-						<figure class="icono-servicio">
-							<i class="fa fa-whatsapp"></i>
-						</figure><!-- /.icono-servicio -->
-					</div><!-- /.icono -->
+			<div class="container archive-content">
+			
+				<section class="detalle-archivo">
 					<div class="text">
-						
-						<h3>Nos contactas y agendas tu servicio</h3>
-						
-						<p>Para reservar tu servicio llámanos a los tel&eacute;fonos 099 617 9227 - 099 617 1061 o escr&iacute;benos a <a href="mailto:info@easyhogar.com">info@easyhogar.com</a></p>
+						<a href="#"><img src="img/tn_dest.jpg"></a>						
+						<h3>Turismo religioso, una oportunidad para promover el sector en Ecuador</h3>
 					</div><!-- /.text -->
 				</section><!-- /.detalle-servicio -->
 
