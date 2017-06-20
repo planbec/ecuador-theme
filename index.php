@@ -19,6 +19,7 @@
 	<section>
 		<?php include("redes-home.php"); ?>
 	</section>
+	<?php include("auspiciantes-home.php"); ?>
 	
 	
 <?php include("footer.php"); ?>

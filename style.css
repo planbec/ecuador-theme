@@ -601,6 +601,16 @@ header, .logo-header, .call-action, img {
     border-bottom: 2px solid #1ba3c6;
     float: left; }
 
+/* Auspiciantes */
+#auspiciantes-home {
+  border-top: 1px solid #e9e4e4;
+  padding: 1rem 0; }
+  #auspiciantes-home li {
+    text-align: center;
+    width: 20%;
+    display: table-cell;
+    vertical-align: middle; }
+
 /* Footer */
 #main-footer {
   border-top: solid 6px #727c88;
